@@ -6,6 +6,8 @@ The Airtable to Github connection to track issues and PR's.
 
 This is a connection designed to create and manage interaction for GitHub and Airtable.
 
+If you are familiar with [Zapier's GitHub and Airtable integration](https://zapier.com/apps/airtable/integrations/github), then this is what we are achieving in a self-hosted manner.
+
 ## Architecture
 
 This section describes how the API's of services interact with each other.
